@@ -3,4 +3,5 @@ ITunes UI design clone using itunes API and MVC architecture
 
 
 UI:
-![Uploading simulator_screenshot_F6E73B61-32B9-4EC8-A138-6282BCD438F7.png…]()
+
+![simulator_screenshot_098E5F2C-A5F5-4026-88A7-8022B679E4F9](https://github.com/Ar5en1c/ITunesApp-MVC-/assets/91252414/e5a6a42a-189c-4689-ba11-102bd0c8435d)
